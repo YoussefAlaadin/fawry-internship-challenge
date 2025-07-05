@@ -10,7 +10,7 @@ public class Main {
         Product scratchCard = new ScratchCard("Scratch Card", 50, 10);
 
         // Customer
-        Customer customer = new Customer("Youssef", 500);
+        Customer customer = new Customer("Youssef", 600);
 
         // Add Cart
         customer.getCart().add(cheese, 2);
